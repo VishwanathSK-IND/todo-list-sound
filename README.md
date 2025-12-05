@@ -20,4 +20,4 @@ A simple, interactive To-Do List app that plays a satisfying "Ding!" sound when 
 4.  Click the **X** to delete it permanently.
 
 ## 🔗 Live Demo
-[Click here to view the project](REPLACE_THIS_WITH_YOUR_LINK_LATER)
+https://vishwanathsk-ind.github.io/todo-list-sound/
